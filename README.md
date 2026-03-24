@@ -5,7 +5,7 @@
 
 ### Github Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vitormate&count_private=true&show_icons=true&theme=github_dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormate&count_private=true&hide=c%2B%2B,cmake,dart&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vitormate&count_private=true&show_icons=true&theme=github_dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormate&count_private=false&hide=c%2B%2B,cmake,dart&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ##
